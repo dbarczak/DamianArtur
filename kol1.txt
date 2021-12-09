@@ -4,3 +4,4 @@ oraz
 zmiana1
 zmiana2
 prostaWersja
+b
